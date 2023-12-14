@@ -158,7 +158,7 @@ For this task, the best way to check your function is probably to check your fir
 Here is the autograder test data if you'd like to try it:
 
 | Test | `seats` | Expected `elected` | Expected `eliminated` |
-|--|--|--|
+|--|--|--|--|
 | 7.3)  | `2` | `[3, 2]` | `[0, 1]` |
 | 7.4)  | `2` | `[1, 2]` | `[0]` or `[0, 3]` |
 | 7.5a) | `4` | `[0, 2, 3, 5]` | `[4, 1]` |
