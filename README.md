@@ -6,6 +6,8 @@ Except where otherwise indicated, the ballot data for each test can be found in 
 
 Note that all submissions have been manually marked, and in particular where autograder tests have failed, this has been checked by markers, and corrected where autograder penalties were excessive.
 
+Where possible, functions from previous questions were substituted for model solutions to test a later function; for example, in all functions where `tally_preferences()` was required, a model solution for `tally_preferences()` was used, to ensure that students were not penalised further if they had made a mistake with their `tally_preferences()` function.
+
 ## Expected results
 
 ### Task 1
